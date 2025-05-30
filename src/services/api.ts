@@ -2,8 +2,8 @@
 
 import axios from "axios";
 import Cookies from "js-cookie";
-// const BASE_URL = "https://mountmerubackend.onrender.com/api";
-const BASE_URL = "http://localhost:8000/api";
+const BASE_URL = "https://visitflowxmountmerubackend.onrender.com/api";
+// const BASE_URL = "http://localhost:8000/api";
 // const BASE_URL = "https://visitflow-prod-backend.onrender.com/api";
 // const BASE_URL = "http://10.0.0.1:3000/api";
 
